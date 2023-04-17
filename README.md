@@ -1,5 +1,5 @@
 # vite-eslint-prettier-template
-Template for vite app using eslint and prettier
+Template for vite app using eslint and prettier, extra react-router-dom and sass implemented.
 
 ## Remember
 1. on terminal:: run ```yarn install```
